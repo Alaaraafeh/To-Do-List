@@ -1,0 +1,13 @@
+.todo{
+    background-color: antiquewhite;
+    width: 50%;
+    margin: 100px auto;
+    border-radius: 10px;
+}
+.done {
+    background-color: green;
+    opacity: 50%;
+}
+button{
+    border-radius: 30%;
+}
